@@ -93,6 +93,7 @@ flowchart LR
 
 <img alt="Status" src="https://img.shields.io/badge/Status-Open%20To%20Collab-2EA44F?style=for-the-badge">
 <br>
+
 **Hours:** Weekdays, 9h - 18h (CET/Brussels Time)
 <br>
 **Base:** Belgium 🇧🇪
